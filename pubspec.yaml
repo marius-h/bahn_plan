@@ -10,6 +10,8 @@ dependencies:
   fluro: ^1.4.0
   flutter:
     sdk: flutter
+  flutter_vector_icons: ^0.1.0
+  flutter_platform_widgets: ^0.9.6
 
 dev_dependencies:
   flutter_test:
